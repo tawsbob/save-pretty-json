@@ -1,0 +1,24 @@
+{
+  "name": "save-pretty-json",
+  "version": "1.0.0",
+  "description": "save prettly json to file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawsbob/node-save-pretty-json.git"
+  },
+  "keywords": [
+    "json",
+    "pretty",
+    "file"
+  ],
+  "author": "Dellean Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tawsbob/node-save-pretty-json/issues"
+  },
+  "homepage": "https://github.com/tawsbob/node-save-pretty-json#readme"
+}
