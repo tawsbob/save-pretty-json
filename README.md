@@ -11,7 +11,7 @@ npm install node-save-pretty-json ---save
 ## Usage
 
 ```javascript
-    const prettyJson = require('./index.js')
+    const prettyJson = require('node-save-pretty-json')
     
     prettyJson({
         filePath: './teste.json',
