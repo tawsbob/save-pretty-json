@@ -5,7 +5,7 @@ Simple module to save your json data pretty
 ## Installation
 
 ```bash
-npm install node-save-pretty-json ---save
+npm install save-pretty-json ---save
 ```
 
 ## Usage
