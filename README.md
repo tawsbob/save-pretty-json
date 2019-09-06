@@ -1,4 +1,4 @@
-# node-save-pretty-json
+# save-pretty-json
 
 Simple module to save your json data pretty
 
@@ -11,7 +11,7 @@ npm install node-save-pretty-json ---save
 ## Usage
 
 ```javascript
-    const prettyJson = require('node-save-pretty-json')
+    const prettyJson = require('save-pretty-json')
     
     prettyJson({
         filePath: './teste.json',
